@@ -1,0 +1,23 @@
+name: Carolina Care Center
+favicon: null
+layout_spectrum: 0.8756587023381144
+typography_spectrum: 0.5531833653803915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7602966646663845
+  lightness: 0.6632900915574282
+  saturation: 0.34841127414256334
+  rhythmicContrast: 0.6926328674890101
+purpose: []
